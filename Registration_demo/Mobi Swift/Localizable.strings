@@ -1,0 +1,30 @@
+
+//Login Module
+"String1" = "Please enter a valid name";
+"String2" = "Please enter a valid surname";
+"String3" = "Please enter a valid e-mail";
+"String4" = "Please enter a valid password";
+"String5" = "Confirm password does not match";
+"String6" = "Please enter a valid phone number";
+"String7" = "Please enter a valid date of birth";
+"String8" = "Done";
+"String9" = "Previous";
+"String10" = "Next";
+"String11" = "Please agree to the Terms and Conditions.";
+"String12" = "Required age to use an app is 18 years";
+"String13" = "You must enter a valid minimum 6 characters password which consists of at least one uppercase, one lowercase, one number, and one special character";
+"String14" = "WEAK";
+"String15" = "AVERAGE";
+"String16" = "STRONG";
+"String17" = "Invalid email or password";
+"String18" = "Email has been already used";
+"String19" = "Please login to use the app";
+"String20" = "Please try again!";
+"String21" = "Logged in successfully";
+
+//Logout
+"String22" = "Logout";
+"String23" = "Are you sure you want to logout?";
+"String24" = "Cancel";
+"String25" = "Ok";
+
